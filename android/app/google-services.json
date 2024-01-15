@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916939998389",
+    "project_id": "vendystationapp",
+    "storage_bucket": "vendystationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916939998389:android:ea4d3878883d433f17eafc",
+        "android_client_info": {
+          "package_name": "com.vndystation.vendystationpayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916939998389-u8hbmkkefou0qoq72s3cb7k7ori7ud4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0BHyZcHPqAV0FeNVWqJNS6x0dW6tHY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916939998389-u8hbmkkefou0qoq72s3cb7k7ori7ud4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
